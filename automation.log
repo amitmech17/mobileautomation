@@ -1,0 +1,6 @@
+29/09/20 09:42:57 PM Tuesday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.coalshastralive.android.app:id/emailtv
+29/09/20 09:42:58 PM Tuesday - BasePage - INFO : Send text  on Element with LocatorType: id and with the locatorValue :com.coalshastralive.android.app:id/emailtv
+29/09/20 09:42:59 PM Tuesday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.coalshastralive.android.app:id/passtv
+29/09/20 09:43:00 PM Tuesday - BasePage - INFO : Send text  on Element with LocatorType: id and with the locatorValue :com.coalshastralive.android.app:id/passtv
+29/09/20 09:43:00 PM Tuesday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.coalshastralive.android.app:id/loginll
+29/09/20 09:43:02 PM Tuesday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.coalshastralive.android.app:id/loginll
